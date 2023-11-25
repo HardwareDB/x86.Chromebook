@@ -1,4 +1,4 @@
-# Lot of: Chromebooks
+# Quantity: Lot, type: Chromebooks
 
 sch:
 - https://www.ebay.com/sch/i.html?_nkw=lot+of+chromebook&_sacat=0
